@@ -1,0 +1,17 @@
+{
+  "name": "PTTasker",
+  "description": "Protothread (PT) library for ESP8266 Arduino",
+  "keywords": "pt,protothread,thread,multithread,tasker,task,delay,wait",
+  "authors":
+  {
+    "name": "Arthur Nikiforov",
+    "maintainer": true
+  },
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/r2rus/PTTasker.git"
+  },
+  "frameworks": "arduino",
+  "platforms": "espressif"
+}

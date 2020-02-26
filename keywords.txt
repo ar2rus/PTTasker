@@ -1,0 +1,48 @@
+#######################################
+# Syntax Coloring Map For Ultrasound
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+PTTasker	KEYWORD1
+pt	KEYWORD1
+task	KEYWORD1
+PT_BEGIN	KEYWORD1
+PT_THREAD	KEYWORD1
+PT_WAIT_UNTIL	KEYWORD1
+PT_END	KEYWORD1
+PT_WAIT	KEYWORD1
+PT_DELAY	KEYWORD1
+PT_SUBTHREAD_R	KEYWORD1
+PT_SUBTHREAD	KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+perform	KEYWORD2
+perform_after	KEYWORD2
+once	KEYWORD2
+loop	KEYWORD2
+stop	KEYWORD2
+stopAll	KEYWORD2
+handle	KEYWORD2
+onPacket	KEYWORD2
+data	KEYWORD2
+length	KEYWORD2
+localIP	KEYWORD2
+localPort	KEYWORD2
+remoteIP	KEYWORD2
+remotePort	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+PT_DEFAULT_GROUP_ID	LITERAL1
+PT_LOOP	LITERAL1
+PT_ONCE	LITERAL1
+PT_INCLUDE_DEEP	LITERAL1
