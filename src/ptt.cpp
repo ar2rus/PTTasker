@@ -1,5 +1,4 @@
 #include "ptt.h"
-#include "Arduino.h"
 
 task_t* PTTasker::getTask(pt_f f){
 	unordered_map<void*, task_t*>::iterator it = tmap.find((void*)f);
